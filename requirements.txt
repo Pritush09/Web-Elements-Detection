@@ -4,7 +4,7 @@ munkres==1.1.4
 protobuf==3.20.3
 pyarrow==11.0.0
 pypiwin32==223
-pywin32==305
+pywin32==305.1
 scipy==1.11.4
 streamlit==1.29.0
 torch==2.1.2
