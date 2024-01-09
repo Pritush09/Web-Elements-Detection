@@ -1,6 +1,7 @@
 import PIL
 import streamlit as st
 from ultralytics import YOLO
+# https://docs.streamlit.io/knowledge-base/dependencies/libgl
 
 # Give the path of the best.pt (best weights)
 model_path = 'best.pt'
