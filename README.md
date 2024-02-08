@@ -3,7 +3,7 @@ The WebPage Vision Analyzer is an innovative computer vision project designed to
 
 
 ## Dockerization:
-I have also created a docker image so anyone with different Operating system than mine can easily download and run the image of this project in a container 
+I have also created a docker image so anyone with different configuration of Operating system than mine can easily download and run the image of this project in a container 
 #### Docker link : [Dockerhub](https://hub.docker.com/r/pritushdocker/web-ele-detect1)
 
 
