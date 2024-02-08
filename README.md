@@ -8,6 +8,7 @@ I have also created a docker image so anyone with different Operating system tha
 
 
 
+## Examples
 
 ![Screenshot 2024-01-09 154505](https://github.com/Pritush09/Web-Elements-Detection/assets/89287734/4ee38254-e277-4fe1-ad06-876aa72e7914)
 
